@@ -1,0 +1,9 @@
+{
+  "contest": 102,
+  "handle": "cccz",
+  "address": "0x74d754378a59Ab45d3E6CaC83f0b87E8E8719270",
+  "risk": "2",
+  "title": "When the _updateCPIData function fails, the contract will not be able to update the price within 28 days, resulting in the use of stale data.",
+  "issueId": 2,
+  "issueUrl": "https://github.com/code-423n4/2022-03-volt-findings/issues/2"
+}
