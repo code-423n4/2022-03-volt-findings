@@ -1,0 +1,9 @@
+{
+  "contest": 102,
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "`OracleRef` assumes backup oracle uses the same normalizer as main oracle",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2022-03-volt-findings/issues/26"
+}
