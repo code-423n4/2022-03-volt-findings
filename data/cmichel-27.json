@@ -1,0 +1,9 @@
+{
+  "contest": 102,
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "Updating rate limit for addresses restores their entire buffer amount",
+  "issueId": 27,
+  "issueUrl": "https://github.com/code-423n4/2022-03-volt-findings/issues/27"
+}
