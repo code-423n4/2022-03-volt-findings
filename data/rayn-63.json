@@ -1,0 +1,9 @@
+{
+  "contest": 102,
+  "handle": "rayn",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "2",
+  "title": "`requestCPIData` timeout potentially denies price update for February",
+  "issueId": 63,
+  "issueUrl": "https://github.com/code-423n4/2022-03-volt-findings/issues/63"
+}
