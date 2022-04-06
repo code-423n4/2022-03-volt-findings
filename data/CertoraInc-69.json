@@ -1,0 +1,9 @@
+{
+  "contest": 102,
+  "handle": "CertoraInc",
+  "address": "0x777bA383e74062dd7948A61471267E8e4370EA39",
+  "risk": "3",
+  "title": "Re-entrace danger in `PCVDeposit`",
+  "issueId": 69,
+  "issueUrl": "https://github.com/code-423n4/2022-03-volt-findings/issues/69"
+}
