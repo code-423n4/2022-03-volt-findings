@@ -1,3 +1,11 @@
+---
+sponsor: "Volt Protocol"
+slug: "2022-03-volt"
+date: "2022-06-29" 
+title: "Volt Protocol contest"
+findings: "https://github.com/code-423n4/2022-03-volt-findings/issues"
+contest: 102
+---
 
 # Overview
 
